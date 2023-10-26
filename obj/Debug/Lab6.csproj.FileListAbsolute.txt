@@ -1,0 +1,15 @@
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\bin\Debug\Database1.mdf
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\bin\Debug\Database1_log.ldf
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\obj\Debug\Lab6.ОБУЧЕНИЕ.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\obj\Debug\Lab6.СПЕЦИАЛЬНОСТИ.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\obj\Debug\Lab6.СТУДЕНТЫ.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\kevin\Desktop\ЮЗГУ\Visual Studio\2do año\1 er semestre\Lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
